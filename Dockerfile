@@ -1,4 +1,4 @@
-FROM Library/centos:latest
+FROM library/centos:latest
 MAINTAINER Justin Garrison <justinleegarrison@gmail.com>
 
 RUN yum -y update && \
